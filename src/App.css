@@ -1,0 +1,28 @@
+
+body{
+margin-top: 100px;
+
+}
+
+ul{
+padding: 0;
+margin-bottom: 0px;
+
+}
+ul li{
+border: 1px solid grey;
+list-style: none;
+padding: 5px;
+background-color: antiquewhite;
+}
+
+h1{
+
+  text-align: center;
+}
+input{
+
+  width: auto;
+  background-color: antiquewhite;
+
+}
