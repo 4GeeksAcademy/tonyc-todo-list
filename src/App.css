@@ -1,7 +1,7 @@
 
 body{
 margin-top: 100px;
-
+background-color: rgba(4, 4, 148, 0.726);
 }
 
 ul{
@@ -25,4 +25,27 @@ input{
   width: auto;
   background-color: antiquewhite;
 
+}
+
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.username-input,
+.task-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
 }
